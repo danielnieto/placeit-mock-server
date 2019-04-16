@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "PORT=45537 nodemon index.js"
+    "dev": "PORT=45537 nodemon index.js",
+    "start": "PORT=45537 node index.js"
   },
   "author": "",
   "license": "ISC",
