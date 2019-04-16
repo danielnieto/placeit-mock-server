@@ -1,0 +1,29 @@
+{
+    "id": "8ebe1ae6b8a4f6b975586048f3118176",
+    "layers": [{
+        "id": 1055,
+        "name": "Graphic Indicators",
+        "color": null,
+        "allowColorpicker": false
+    }, {
+        "id": 1000,
+        "name": "Accent",
+        "color": "#FFDD00",
+        "allowColorpicker": true
+    }, {
+        "id": 1028,
+        "name": "Lights",
+        "color": "#F7AE3D",
+        "allowColorpicker": false
+    }, {
+        "id": 996,
+        "name": "Main",
+        "color": "#D28204",
+        "allowColorpicker": false
+    }, {
+        "id": 1030,
+        "name": "Shadow",
+        "color": "#342001",
+        "allowColorpicker": false
+    }]
+}

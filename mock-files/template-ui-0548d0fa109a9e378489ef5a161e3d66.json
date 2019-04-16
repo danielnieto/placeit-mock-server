@@ -1,0 +1,339 @@
+{
+    "previewImage": {
+        "value": "assets/j80o1fkv62fbijeamcgo07saugf3vdxq.jpg"
+    },
+    "highResolution": false,
+    "migrated": true,
+    "original": {
+        "name": "Default",
+        "size": {
+            "high": {
+                "width": 4000,
+                "height": 4000,
+                "resolution": 300
+            },
+            "preview": {
+                "height": 800,
+                "width": 800
+            }
+        }
+    },
+    "supportedSizes": [],
+    "text": [{
+        "id": 1624,
+        "name": "T1",
+        "type": "Text",
+        "opacity": 100,
+        "fill": 100,
+        "x": 1027,
+        "y": 1897,
+        "width": 1050,
+        "height": 176,
+        "visible": true,
+        "styles": {
+            "blendOptions": {}
+        },
+        "color": "#000000",
+        "image": null,
+        "contents": "THE",
+        "font": "Arvo-Bold-Italic",
+        "fontFamily": "Lato",
+        "fontSize": "341.279",
+        "justification": "RIGHT",
+        "capitalization": "NORMAL",
+        "baselineShift": -50.7915382385254,
+        "kerning": 0,
+        "warpStyle": "NONE",
+        "warpDirection": "HORIZONTAL",
+        "warpHorizontalDistortion": 0,
+        "warpVerticalDistortion": 0,
+        "warpBend": 0,
+        "position": {
+            "x": 2097.12674625351,
+            "y": 1833.01561781229
+        },
+        "layers": [],
+        "smartFilters": null,
+        "allowColorpicker": true,
+        "allowMultiline": false,
+        "maxCharactersPerLine": 35,
+        "maxLines": 3,
+        "excludable": true,
+        "maxCharacters": 35,
+        "allowedFonts": [{
+            "name": "Arvo-Bold-Italic",
+            "image": "/fonts/7434784af38f46bf63c9f3e9cf5c9c8a.png",
+            "visible": true,
+            "displayName": "Arvo Bold Italic RETINA",
+            "file": "/fonts/7434784af38f46bf63c9f3e9cf5c9c8a.ttf"
+        }, {
+            "name": "Arvo-Bold",
+            "image": "/fonts/5a191df1e7ad108ed9b86d7cb30435f4.png",
+            "visible": false,
+            "displayName": "Arvo Bold RETINA",
+            "file": "/fonts/5a191df1e7ad108ed9b86d7cb30435f4.ttf"
+        }],
+        "tag": "TEXT1"
+    }, {
+        "id": 1623,
+        "name": "T2",
+        "type": "Text",
+        "opacity": 100,
+        "fill": 100,
+        "x": 2121,
+        "y": 1896,
+        "width": 1073,
+        "height": 180,
+        "visible": true,
+        "styles": {
+            "blendOptions": {}
+        },
+        "color": "#ff7404",
+        "image": null,
+        "contents": "BEACH",
+        "font": "Arvo-Bold-Italic",
+        "fontFamily": "Lato",
+        "fontSize": "347.478",
+        "justification": "LEFT",
+        "capitalization": "NORMAL",
+        "baselineShift": -50.7915382385254,
+        "kerning": 0,
+        "warpStyle": "NONE",
+        "warpDirection": "HORIZONTAL",
+        "warpHorizontalDistortion": 0,
+        "warpVerticalDistortion": 0,
+        "warpBend": 0,
+        "position": {
+            "x": 2096.36497288823,
+            "y": 1775.02461534934
+        },
+        "layers": [],
+        "smartFilters": null,
+        "allowColorpicker": true,
+        "allowMultiline": false,
+        "maxCharactersPerLine": 33,
+        "maxLines": 3,
+        "excludable": true,
+        "maxCharacters": 35,
+        "allowedFonts": [{
+            "name": "Arvo-Bold-Italic",
+            "image": "/fonts/7434784af38f46bf63c9f3e9cf5c9c8a.png",
+            "visible": true,
+            "displayName": "Arvo Bold Italic RETINA",
+            "file": "/fonts/7434784af38f46bf63c9f3e9cf5c9c8a.ttf"
+        }, {
+            "name": "Arvo-Bold",
+            "image": "/fonts/5a191df1e7ad108ed9b86d7cb30435f4.png",
+            "visible": false,
+            "displayName": "Arvo Bold RETINA",
+            "file": "/fonts/5a191df1e7ad108ed9b86d7cb30435f4.ttf"
+        }],
+        "tag": "TEXT2"
+    }, {
+        "id": 1672,
+        "name": "T3",
+        "type": "Text",
+        "opacity": 100,
+        "fill": 100,
+        "x": 1769,
+        "y": 2127,
+        "width": 679,
+        "height": 50,
+        "visible": true,
+        "styles": {
+            "blendOptions": {}
+        },
+        "color": "#010101",
+        "image": null,
+        "contents": "RESORT & GOLF CLUB",
+        "font": "Arvo-Bold-Italic",
+        "fontFamily": "Lato",
+        "fontSize": "95.6154",
+        "justification": "CENTER",
+        "capitalization": "NORMAL",
+        "baselineShift": -50.7915382385254,
+        "kerning": 0,
+        "warpStyle": "NONE",
+        "warpDirection": "HORIZONTAL",
+        "warpHorizontalDistortion": 0,
+        "warpVerticalDistortion": 0,
+        "warpBend": 0,
+        "position": {
+            "x": 2107.62695400036,
+            "y": 2083.07430163099
+        },
+        "layers": [],
+        "smartFilters": null,
+        "allowColorpicker": true,
+        "allowMultiline": false,
+        "maxCharactersPerLine": 33,
+        "maxLines": 3,
+        "excludable": true,
+        "maxCharacters": 40,
+        "allowedFonts": [{
+            "name": "Arvo-Bold-Italic",
+            "image": "/fonts/7434784af38f46bf63c9f3e9cf5c9c8a.png",
+            "visible": true,
+            "displayName": "Arvo Bold Italic RETINA",
+            "file": "/fonts/7434784af38f46bf63c9f3e9cf5c9c8a.ttf"
+        }, {
+            "name": "Arvo-Bold",
+            "image": "/fonts/5a191df1e7ad108ed9b86d7cb30435f4.png",
+            "visible": false,
+            "displayName": "Arvo Bold RETINA",
+            "file": "/fonts/5a191df1e7ad108ed9b86d7cb30435f4.ttf"
+        }],
+        "tag": "TEXT3",
+        "sizes": [{
+            "name": 0,
+            "visible": false
+        }, {
+            "name": 1,
+            "visible": true
+        }, {
+            "name": 2,
+            "visible": false
+        }]
+    }],
+    "graphic": [{
+        "id": 1745,
+        "name": "Main Color",
+        "type": "Folder",
+        "opacity": 100,
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "visible": true,
+        "styles": {
+            "blendOptions": {
+                "mode": "passThrough"
+            },
+            "layerEffects": {
+                "scale": 416.666666666667,
+                "solidFill": {
+                    "enabled": true,
+                    "present": true,
+                    "showInDialog": true,
+                    "mode": "screen",
+                    "color": {
+                        "red": 255,
+                        "green": 116.214005202055,
+                        "blue": 4.00389122776687
+                    },
+                    "opacity": 100
+                }
+            }
+        },
+        "color": "#FF7404",
+        "image": null,
+        "contents": null,
+        "font": null,
+        "smartFilters": null,
+        "allowColorpicker": true,
+        "allowSearch": false,
+        "allowForegroundSearch": false,
+        "allowBackgroundSearch": false,
+        "preconfiguredSearch": "",
+        "hasLayers": true,
+        "excludable": true,
+        "allowScale": true,
+        "allowMove": true,
+        "tag": "GRAPHIC1",
+        "selectedLayer": {
+            "id": "8ebe1ae6b8a4f6b975586048f3118176",
+            "name": "CHAZ PSD",
+            "image": "/image_library/8ebe1ae6b8a4f6b975586048f3118176/images/small.jpg",
+            "visible": true,
+            "nounAssetId": "",
+            "luminosityCorrection": false,
+            "type": "document"
+        }
+    }],
+    "background": [{
+        "id": 718,
+        "name": "Background",
+        "type": "Folder",
+        "opacity": 100,
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "visible": true,
+        "styles": {
+            "blendOptions": {
+                "mode": "passThrough"
+            }
+        },
+        "color": null,
+        "image": null,
+        "contents": null,
+        "font": null,
+        "smartFilters": null,
+        "allowSearch": false,
+        "allowForegroundSearch": false,
+        "allowBackgroundSearch": false,
+        "preconfiguredSearch": "",
+        "hasLayers": false,
+        "excludable": true,
+        "selectedLayer": null
+    }],
+    "backgroundColor": {
+        "id": 715,
+        "name": "Color",
+        "type": "SolidColor",
+        "opacity": 100,
+        "fill": 100,
+        "x": 0,
+        "y": 0,
+        "width": 4000,
+        "height": 4000,
+        "visible": true,
+        "styles": {
+            "blendOptions": {},
+            "layerEffects": {
+                "scale": 416.666666666667,
+                "solidFill": {
+                    "enabled": true,
+                    "present": true,
+                    "showInDialog": true,
+                    "mode": "normal",
+                    "color": {
+                        "red": 255,
+                        "green": 247.836578786373,
+                        "blue": 234.000001251698
+                    },
+                    "opacity": 100
+                }
+            }
+        },
+        "color": "#FFF7EA",
+        "image": null,
+        "contents": null,
+        "font": null,
+        "layers": [],
+        "smartFilters": null,
+        "allowColorpicker": true
+    },
+    "customGraphic": [],
+    "uploadRequired": true,
+    "effect": [{
+        "visible": true,
+        "name": "Effects",
+        "excludable": true,
+        "image": null,
+        "layers": []
+    }],
+    "id": "0548d0fa109a9e378489ef5a161e3d66",
+    "version": "4.0",
+    "forceReload": false,
+    "composition": {
+        "layout": [{
+            "name": "front",
+            "visible": true
+        }, {
+            "name": "above",
+            "visible": false
+        }]
+    }
+}
