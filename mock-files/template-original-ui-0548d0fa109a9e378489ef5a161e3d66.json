@@ -196,6 +196,50 @@
         }]
     }],
     "graphic": [{
+        "id": 1747,
+        "name": "Accent Color",
+        "type": "Folder",
+        "opacity": 100,
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "visible": true,
+        "styles": {
+            "blendOptions": {
+                "mode": "passThrough"
+            },
+            "layerEffects": {
+                "scale": 416.666666666667,
+                "solidFill": {
+                    "enabled": true,
+                    "present": true,
+                    "showInDialog": true,
+                    "mode": "screen",
+                    "color": {
+                        "red": 255,
+                        "green": 230.14007717371,
+                        "blue": 81.0038937628269
+                    },
+                    "opacity": 100
+                }
+            }
+        },
+        "color": "#FFE651",
+        "image": null,
+        "contents": null,
+        "font": null,
+        "smartFilters": null,
+        "allowColorpicker": true,
+        "allowSearch": false,
+        "allowForegroundSearch": false,
+        "allowBackgroundSearch": false,
+        "preconfiguredSearch": "",
+        "hasLayers": false,
+        "excludable": true,
+        "tag": "GRAPHIC3",
+        "selectedLayer": null
+    }, {
         "id": 1745,
         "name": "Main Color",
         "type": "Folder",

@@ -1,17 +1,17 @@
 {
-    "id": "8ebe1ae6b8a4f6b975586048f3118176",
+    "id": "d5f5bfa445c56b777b8c0680d786f77c",
     "layers": [
     {
         "id": 1056,
-        "name": "Sol Derecho 3 Palmeras",
+        "name": "Sol Izquierda 2 Palmeras",
         "color": null,
         "allowColorpicker": false
     },
     {
         "id": 1055,
-        "name": "Graphic Indicators",
+        "name": "Graphic Indicators 2",
         "color": null,
-        "allowColorpicker": false
+        "allowColorpicker": true
     }, {
         "id": 1000,
         "name": "Accent",
@@ -19,7 +19,7 @@
         "allowColorpicker": true
     }, {
         "id": 1028,
-        "name": "Lights",
+        "name": "Lights 2",
         "color": "#F7AE3D",
         "allowColorpicker": false
     }, {
@@ -29,7 +29,7 @@
         "allowColorpicker": false
     }, {
         "id": 1030,
-        "name": "Shadow",
+        "name": "Shadow 2",
         "color": "#342001",
         "allowColorpicker": false
     }]

@@ -5,15 +5,28 @@ const router = express.Router();
 
 mockFilesPath = path.join(__dirname, '/mock-files');
 
-router.get('/:type/:id/ui.json', function (req, res) {
+router.get('/:category/:id/:file', function (req, res) {
 
-    const type = req.params.type;
-    const fileName = `${type}-ui-${req.params.id}.json`;
+    const category = req.params.category;
+    const fileParam = req.params.file;
+    const [fileName, fileExt] = fileParam.split('.');
+    const filePath = `${category}-${fileName}-${req.params.id}.${fileExt}`;
+    const failRate = req.query.fail && parseFloat(req.query.fail) || 0;
 
-    fs.readFile(path.resolve(mockFilesPath, fileName), 'UTF-8', (err, data) => {
+    if (Math.random() < failRate) {
+        return res.sendStatus(500);
+    }
+
+    fs.readFile(path.resolve(mockFilesPath, filePath), 'UTF-8', (err, data) => {
         if (err) return res.sendStatus(404);
-        const uijson = JSON.parse(data);
-        res.json(uijson);
+
+        if (fileExt.toLowerCase() === 'json') {
+            console.log('is a json');
+
+            return res.json(JSON.parse(data));
+        }
+
+        return res.end(data);
     });
 
 });
